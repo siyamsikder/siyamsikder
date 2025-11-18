@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Siyam Sikder</h1>
+<h1 align="">🚀 Siyam Sikder</h1>
 
 <p align="center">
   <strong>MERN Stack Developer • UI/UX Enthusiast • Bangladesh 🇧🇩</strong>
@@ -29,14 +29,8 @@ I enjoy solving real-world problems, designing clean UI/UX in Figma, and learnin
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=siyamsikder&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=siyamsikder&theme=tokyonight&hide_border=true"/>
-</p>
+![Siyam GitHub stats](https://github-readme-stats.vercel.app/api?username=siyamsikder&show_icons=true&theme=dark)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siyamsikder&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
