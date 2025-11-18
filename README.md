@@ -23,17 +23,7 @@ I enjoy solving real-world problems, designing clean UI/UX in Figma, and learnin
 
 ## 🎨 Languages and Tools
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png" width="40"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,react,css,mongodb,tailwind,firebase,figma)](https://skillicons.dev)
 
 ---
 
@@ -46,39 +36,6 @@ I enjoy solving real-world problems, designing clean UI/UX in Figma, and learnin
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siyamsikder&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/siyamsikder/siyamsikder/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-## 🌟 Featured Projects
-
-### 🔹 **Modern Portfolio v2**
-Next.js, Tailwind, fully responsive portfolio website.  
-🔗 https://github.com/siyamsikder/portfolio-v2
-
----
-
-### 🔹 **MERN E-Commerce**
-Authentication, admin panel, cart, filtering, full stack MERN project.  
-🔗 https://github.com/siyamsikder/mern-shop
-
----
-
-## 📬 Connect With Me
-
-<p align="center">
-<a href="https://github.com/siyamsikder"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge"/></a>
-&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge"/></a>
-&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge"/></a>
 </p>
 
 ---
