@@ -12,15 +12,6 @@ I enjoy solving real-world problems, designing clean UI/UX in Figma, and learnin
 
 ---
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/PROJECTS-20+-brightgreen?style=for-the-badge"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Followers-100+-blue?style=for-the-badge"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Views-10K+-yellow?style=for-the-badge"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Active%20Developer-YES-red?style=for-the-badge"/></a>
-</p>
-
----
-
 ## 🎨 Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,react,css,mongodb,tailwind,firebase,figma)](https://skillicons.dev)
