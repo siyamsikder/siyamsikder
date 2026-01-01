@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Siyam Sikder</h1>
 
 <p align="center">
-  <strong>MERN Stack Developer • Frontend Focused • CSE Diploma Student • Bangladesh 🇧🇩</strong>
+  <strong>MERN Stack Developer | React & Next.js Enthusiast • CSE Diploma Student • Bangladesh 🇧🇩</strong>
 </p>
 
 <p align="center">
